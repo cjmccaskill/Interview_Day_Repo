@@ -8,6 +8,8 @@ In groups of 5, each person gets 20 minutes to do one of the following code chal
 - talk out your thought process and questions
 - google is ok
 
+<hr>
+
 - [Two Sum](https://repl.it/@jkeohan/Algo-TwoSum-Starter)
 - [DNA Strings](https://repl.it/@jkeohan/Algo-DNA-Strings-Starter)
 - [Array Of Random Unique Values](https://repl.it/@jkeohan/Algo-Array-Of-Random-Unique-Values-Starter)
